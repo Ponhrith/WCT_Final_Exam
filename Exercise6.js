@@ -20,7 +20,7 @@ function packedBoxes(totalItems) {
 }
 
 // Example usage:
-console.log(packedBoxes(11));  // Output: [3, 3, 5]
-console.log(packedBoxes(15));  // Output: [3, 3, 3, 3, 3]
-console.log(packedBoxes(17));  // Output: [3, 3, 3, 3, 5]
-console.log(packedBoxes(7));   // Output: []
+console.log(packedBoxes(11));  
+console.log(packedBoxes(15));  
+console.log(packedBoxes(17));  
+console.log(packedBoxes(7));  

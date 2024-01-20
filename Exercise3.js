@@ -7,7 +7,7 @@ function validatePIN(pin) {
   }
   
   // Examples
-  console.log(validatePIN("1234"));    // true
-  console.log(validatePIN("123245"));  // false
-  console.log(validatePIN("a234"));    // false
+  console.log(validatePIN("1234"));    
+  console.log(validatePIN("123245"));  
+  console.log(validatePIN("a234"));    
   

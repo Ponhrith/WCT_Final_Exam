@@ -5,4 +5,4 @@ function canNest(arr1, arr2) {
     return arr1Min > arr2Min && arr1Max < arr2Max;
 }
 
-console.log(canNest([9,9,8], [8,9])); // Outputs: true
+console.log(canNest([9,9,8], [8,9])); 
